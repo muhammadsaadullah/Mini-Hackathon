@@ -5,7 +5,7 @@ export default function CarDetails(){
     return(
         <div className="flex flex-col w-3/4 justify-self-center items-center bg-sky-[80px]">
             <div className="flex p-5">
-                <h1 className="font-bold text-3xl"><u>Suzuki Alto 2024 Price in Pakistan, Images, Reviews & Specs</u></h1>
+                <h1 className="font-bold text-3xl"><u>Honda Civic 2024 Price in Pakistan, Images, Reviews & Specs</u></h1>
             </div>
             <div className="flex m-5">
                 <Image

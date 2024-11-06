@@ -9,7 +9,7 @@ export default function CarDetails(){
             </div>
             <div className="flex m-5">
                 <Image
-                    src="/Alto 2.png"
+                    src="/alto 2.png"
                     alt=""
                     width={300}
                     height={200}
